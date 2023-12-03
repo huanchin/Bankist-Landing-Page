@@ -5,9 +5,7 @@ this project demostrates the usage of advance DOM:
 1. Scroll to the section when clicking the btn
    
   a. getBoundingClientRect()
-  
-  b. window.scrollTo()
-  
+  b. window.scrollTo() 
   c. scrollIntoView()
 
 3. Scroll to the section when clicking the navs
